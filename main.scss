@@ -1,0 +1,16 @@
+$corPrincipal:#eee;
+$corSecundaria:#111;
+
+
+body {
+    background-color: $corPrincipal;
+}
+
+header {
+    background-color: $corPrincipal;
+    
+    h1 {
+        color:$corSecundaria;
+    }
+}
+
